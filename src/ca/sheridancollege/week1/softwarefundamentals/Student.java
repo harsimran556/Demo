@@ -43,7 +43,7 @@ public class Student {
     public int getID() {
         return ID;
     }
-
+    System.out.println("HI");
     /**
      * @param givenID the ID to set
      */
